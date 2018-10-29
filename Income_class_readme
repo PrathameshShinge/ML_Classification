@@ -1,0 +1,2 @@
+Data source for Income Census: https://archive.ics.uci.edu/ml/datasets/census+income
+Since the data has records prior to the year 1994, high and low income class has been divided as above $50K and below $50K respectively.
